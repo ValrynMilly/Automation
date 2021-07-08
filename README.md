@@ -1,2 +1,2 @@
 # Automation
- A series of automation functions & programs.
+ A series of automated functions & programs.
